@@ -1,0 +1,18 @@
+{
+    "name": "anhnhan/symbols",
+    "description": "Symbol discovery and autoloading (and some more)",
+    "require": {
+        "nikic/php-parser": "0.9.*"
+    },
+    "require-dev": {
+        "symfony/console": "2.4"
+    },
+    "license": "Apache v2.0",
+    "authors": [
+        {
+            "name": "Anh Nhan Nguyen",
+            "email": "anhnhan@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
